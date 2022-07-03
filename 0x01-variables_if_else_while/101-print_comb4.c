@@ -34,4 +34,3 @@ putchar(' ');
 putchar('\n');
 return (0);
 }
-Footer
