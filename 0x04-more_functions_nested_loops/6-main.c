@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-mprint_line(0);
+print_line(0);
 print_line(2);
 print_line(10);
 print_line(-4);
